@@ -1,0 +1,17 @@
+Id and Name for who has worked for 7 consecutive days.
+WFS000101     Sparks, KeWWeMh
+
+Id and Name for who have less than 10 hours of time between shifts but greater than 1 hour
+WFS000153     CaMaXaWE, CeghaW
+WFS000200     Xee, XaCar
+WFS000318     De Xa Cerda, IgWaciE
+WFS000345     MraW, WiXXiaC Ha
+WFS000456     CEreira Jr, JEse
+WFS000515     GrACfieXd, CErWeXiAs
+WFS000523     DeXgadiXXE REdarMe, ChrisMiaW S
+WFS000536     HaCiXMEW, DeaWMe DevEW
+WFS000550     REdrigAez, GraWdEW AWgeX
+WFS000577     SaWchez, ArWAXfE
+
+Id and Name for Who has worked for more than 14 hours in a single shift
+WFS000523     DeXgadiXXE REdarMe, ChrisMiaW S
